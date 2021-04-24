@@ -17,14 +17,14 @@ git: <https://github.com/rajeevsingla780/Test_train_validation_split/>
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install Test_train_validation_split
+pip install Test-train-validation-split
 ```
 
 ## Command Line Usage
 
 ```python
-python test_train_split "directory_name" "split_size"
-# python test_train_split "C:\Users\RAJEEV SINGLA\grapes" 0.80
+test_train_split "directory_name" "split_size"
+# test_train_split "C:\Users\RAJEEV SINGLA\grapes" 0.80
 ```
 
 ## Contributing
